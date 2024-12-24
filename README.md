@@ -1,4 +1,4 @@
-### <div align="center">I'm Vitalii, a Software Engineer 👨‍💻 working since 2013 🚀</div>  
+### <div align="center">I'm Vitalii, a Software Engineer 👨‍💻 working since 2019 🚀</div>  
   
 
 - 🔭 I possess hands-on experience with frameworks such as React and Angular.  
